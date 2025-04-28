@@ -1,4 +1,4 @@
-# Olá! Me chame de Alvaro :)
+# Olá! Me chamo Álvaro :)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?logo=linkedin)](https://www.linkedin.com/in/alvkro)
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-black?logo=github)](https://github.com/alvkro)
