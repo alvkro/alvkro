@@ -1,25 +1,24 @@
-👋 Hello, I'm Álvaro Barbosa Filho
+👋 Olá, eu sou Álvaro Barbosa Filho
 
 
-🎓 Information Technology student at the Federal University of Rio Grande do Norte (UFRN)
-💻 Focused on Python development and software engineering fundamentals
-🚀 Passionate about technology, innovation, and solving real-world problems
-📚 Always learning and improving technical and soft skills
+🎓 Estudante de Tecnologia da Informação na Universidade Federal do Rio Grande do Norte (UFRN)
+💻 Focado no desenvolvimento com Python e fundamentos de engenharia de software
+🚀 Apaixonado por tecnologia, inovação e a solução de problemas do mundo real
+📚 Sempre aprendendo e buscando melhorar minhas habilidades técnicas e interpessoais
 
-🛠️ Skills
-Languages: Python
+🛠️ Habilidades
+Linguagens: Python
 
-Learning Areas: Software Development Fundamentals, Linux
+Áreas de estudo: Fundamentos de Desenvolvimento de Software, Linux
 
-🌱 Currently Learning
-Advanced Python Programming
+🌱 Atualmente estudando
+Programação avançada em Python
 
-Linux (basic commands, file system, user management)
+Linux (comandos básicos, sistema de arquivos, gerenciamento de usuários)
 
-Software Engineering Principles
+Princípios de Engenharia de Software
 
-📫 Contact Me
-LinkedIn: linkedin.com/in/alvkro
+📫 Como me encontrar
+LinkedIn: www.linkedin.com/in/alvkro
 
 Email: alvaro.filho.111@ufrn.edu.br
-
