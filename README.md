@@ -1,24 +1,25 @@
-👋 Hello, call me Alvaro!
-🎓 I'm a 19-year-old Information Technology student at the Federal University of Rio Grande do Norte (UFRN).
-💻 Currently focused on learning and developing projects with Python.
-🚀 Passionate about technology, innovation, and solving real-world problems through programming.
-📚 Always looking for opportunities to learn new technologies and improve my skills.
+👋 Hello, I'm Álvaro Barbosa Filho
 
-🔧 Skills in Progress
-Python
 
-Git & GitHub
+🎓 Information Technology student at the Federal University of Rio Grande do Norte (UFRN)
+💻 Focused on Python development and software engineering fundamentals
+🚀 Passionate about technology, innovation, and solving real-world problems
+📚 Always learning and improving technical and soft skills
 
-Software Development Fundamentals
+🛠️ Skills
+Languages: Python
+
+Learning Areas: Software Development Fundamentals, Linux
 
 🌱 Currently Learning
-Object-Oriented Programming (OOP) in Python
+Advanced Python Programming
 
-Data Structures and Algorithms
+Linux (basic commands, file system, user management)
 
-📫 How to reach me
-LinkedIn: www.linkedin.com/in/alvkro
+Software Engineering Principles
 
-Email: alvaro11barbosa@gmail or alvaro.filho.111@ufrn.edu.br
+📫 Contact Me
+LinkedIn: linkedin.com/in/SEU-LINKEDIN-AQUI
 
+Email: SEU-EMAIL@exemplo.com
 
