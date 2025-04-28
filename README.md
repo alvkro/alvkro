@@ -19,7 +19,7 @@ Linux (basic commands, file system, user management)
 Software Engineering Principles
 
 📫 Contact Me
-LinkedIn: linkedin.com/in/SEU-LINKEDIN-AQUI
+LinkedIn: linkedin.com/in/alvkro
 
-Email: SEU-EMAIL@exemplo.com
+Email: alvaro.filho.111@ufrn.edu.br
 
