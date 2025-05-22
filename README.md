@@ -24,7 +24,7 @@
 ## 🌱 Atualmente estudando
 
 - Programação avançada em Python
-- Data Science com Jupyter Lab e bibliotecas como Pandas e MathPlotLib
+- Programação em C#
 - Linux (comandos básicos, sistema de arquivos, gerenciamento de usuários)
 - Princípios de Engenharia de Software
 
