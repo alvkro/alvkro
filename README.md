@@ -1,36 +1,9 @@
-# Olá! Me chamo Álvaro :)
+# Bem vindo!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?logo=linkedin)](https://www.linkedin.com/in/alvkro)
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-black?logo=github)](https://github.com/alvkro)
+Alvaro Barbosa Filho | Estudante de **BTI na UFRN/IMD** | Iniciante apaixonado pela área de tecnologia e desenvolvimento
 
----
-
-## 🎓 Sobre mim
-
-- Estudante de **Tecnologia da Informação** na **Universidade Federal do Rio Grande do Norte (UFRN)**
-- Focado em **desenvolvimento com Python** e fundamentos de **engenharia de software**
-- Apaixonado por **tecnologia**, **inovação** e **resolver problemas reais**
-- Sempre buscando **aprender** e **evoluir** tanto tecnicamente quanto pessoalmente
-
----
-
-## 🛠️ Habilidades
-
-- **Linguagem:** Python
-- **Áreas de estudo:** Fundamentos de Desenvolvimento de Software, Linux
-
----
-
-## 🌱 Atualmente estudando
-
-- Programação avançada em Python
-- Programação em C++
-- Linux (comandos básicos, sistema de arquivos, gerenciamento de usuários)
-- Princípios de Engenharia de Software
-
----
-
-## 📫 Contato
-
-- [LinkedIn](https://www.linkedin.com/in/alvkro)
-- Email: **alvaro.filho.111@ufrn.edu.br**
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" alt="NixOS" width="50" height="50"/>
+</p>
