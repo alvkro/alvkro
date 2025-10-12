@@ -1,6 +1,6 @@
 # Bem vindo!
 
-Alvaro Barbosa Filho | Estudante de **BTI na UFRN/IMD** | Iniciante apaixonado pela área de tecnologia e desenvolvimento
+Alvaro Barbosa Filho | Estudante de **BTI na UFRN/IMD** | Iniciante apaixonado pela área de tecnologia
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
