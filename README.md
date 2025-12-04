@@ -3,8 +3,7 @@
 Sou estudante de **Bacharelado em Tecnologia da Informação** no **IMD/UFRN**. 🎓
 
 Meu foco principal é a área de **Desenvolvimento de Jogos** e **Computação Gráfica**.
-Para além da área acadêmica e programação, você provavelmente vai me encontrar jogando RPGs como *Disco Elysium*, ou assistindo alguma
-série de comédia da [adult swim]! 
+Para além da área acadêmica e programação, você provavelmente vai me encontrar jogando RPGs como *Disco Elysium*.
 
 
 ### 🛠️ Tecnologias que possuo experiência
