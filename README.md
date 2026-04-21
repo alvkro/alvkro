@@ -1,14 +1,13 @@
-# Olá, me chamo Álvaro 👋
+# Hi, I'm Álvaro 👋
 
-Sou estudante de **Bacharelado em Tecnologia da Informação** no **IMD/UFRN**. 🎓
+I'm a **Bachelor of Information Technology** student at **IMD/UFRN**. 🎓
 
-Meu foco principal é a área de **Desenvolvimento de Jogos** e **Computação Gráfica**.
-Para além da área acadêmica e programação, você provavelmente vai me encontrar jogando RPGs como *Disco Elysium*.
+My main focus is on **Game Development** and **Computer Graphics**.
+Beyond academics and programming, you'll probably find me playing RPGs like *Disco Elysium*.
 
+### 🛠️ Technologies I have experience with
 
-### 🛠️ Tecnologias que possuo experiência
-
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" />&nbsp;&nbsp;&nbsp;
