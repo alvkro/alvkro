@@ -2,7 +2,7 @@
 
 I'm a **Bachelor of Information Technology** student at **IMD/UFRN**.
 
-My main focus is on **Game Development** and **Computer Graphics**.
+My main focus is on **Game Development** and **Computer Graphics** *(*i use arch btw*)*.
 Beyond academics and programming, you'll probably find me playing RPGs like *Disco Elysium*.
 
 ### Technologies I have experience with
