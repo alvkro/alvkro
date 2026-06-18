@@ -1,12 +1,28 @@
-# Hi, I'm Álvaro 👋
+# Hey there, welcome!
 
-I'm a **Bachelor of Information Technology** student at **IMD/UFRN**.
+## About me
 
-My main focus is on **Game Development** and **Computer Graphics** *(*i use arch btw*)*.
-Beyond academics and programming, you'll probably find me playing RPGs like *Disco Elysium*.
+> 🎓 **Bachelor of Information Technology** student at **IMD/UFRN**
 
-### Technologies I have experience with
+I'm a backend-focused developer with a passion for low-level programming and computer graphics.  
+My go-to languages are **C++** and **"Rust"** — though C++ takes up most of my time. 😅
+
+- Passionate about **Computer Graphics** — game engines and how they work fascinate me
+- Currently volunteering at **IEEE UFRN** as part of the **Computer Society** chapter
+- I love cats!
+
+---
+
+## Stuff I have some experience with
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,py,git,arch" alt="My Skills" />
+</div>
+
+---
+
+## Things I'm trying to learn *(usually failing, but life goes on)*
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=opengl,ts,rust" alt="My Skills" />
 </div>
