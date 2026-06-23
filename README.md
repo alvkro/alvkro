@@ -1,7 +1,4 @@
 # alvkro
-
-## About me
-
 > 🎓 **Bachelor of Information Technology** student at **IMD/UFRN**
 
 - I'm a backend-focused developer with a passion for low-level programming and computer graphics.  
