@@ -24,8 +24,6 @@ Here are some projects I’ve built or contributed to that best represent my int
   </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=alvkro)](https://github.com/stats-organization/github-stats-extended)
-
 ## Stuff I have some experience with
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,py,git,arch" alt="My Skills" />
