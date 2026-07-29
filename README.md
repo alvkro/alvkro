@@ -9,9 +9,6 @@
 ## My most relevant projects
 Here are some projects I’ve built or contributed to that best represent my interests and skills:
 
-## My most relevant projects
-Here are some projects I’ve built or contributed to that best represent my interests and skills:
-
 <p align="center">
   <a href="https://github.com/alvkro/map-generator-itp">
     <img height="150em" src="https://github-readme-stats-git-masterrstaib.vercel.app/api/pin/?username=alvkro&repo=map-generator-itp&theme=tokyonight" />
@@ -26,6 +23,8 @@ Here are some projects I’ve built or contributed to that best represent my int
     <img height="150em" src="https://github-readme-stats-git-masterrstaib.vercel.app/api/pin/?username=alvkro&repo=LibraryJava&theme=tokyonight" />
   </a>
 </p>
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=alvkro)](https://github.com/stats-organization/github-stats-extended)
 
 ## Stuff I have some experience with
 <div align="center">
