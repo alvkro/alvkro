@@ -5,6 +5,7 @@
 - Passionate about **Computer Graphics** — game engines and how they work fascinate me
 - Currently volunteering at **IEEE UFRN** as part of the **Computer Society** chapter
 - I love cats!
+- UFRN > UFBA
 
 ## My most relevant projects
 Here are some projects I’ve built or contributed to that best represent my interests and skills:
