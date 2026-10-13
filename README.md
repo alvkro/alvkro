@@ -27,10 +27,10 @@ Here are some projects I’ve built or contributed to that best represent my int
 
 ## Stuff I have some experience with
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,git,arch" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,git,arch,java,spring" alt="My Skills" />
 </div>
 
 ## Things I'm trying to learn *(usually failing, but life goes on)*
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=rust,java,spring" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=rust" alt="My Skills" />
 </div>
